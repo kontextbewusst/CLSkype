@@ -327,14 +327,14 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>50080A1B1120B81C006E5E6F</string>
+										<string>50AF1E2411215D6D00CA8578</string>
 										<key>history</key>
 										<array>
 											<string>50DED819111F321B003C930B</string>
 											<string>50DED85D111F39B6003C930B</string>
 											<string>50DED85E111F39B6003C930B</string>
 											<string>50080A0C1120B14C006E5E6F</string>
-											<string>50080A0D1120B14C006E5E6F</string>
+											<string>50080A1B1120B81C006E5E6F</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -392,9 +392,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>5008098711208B83006E5E6F</string>
+				<string>50AF1E2511215D6D00CA8578</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>5008098811208B83006E5E6F</string>
+				<string>50AF1E2611215D6D00CA8578</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -532,9 +532,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>5008099211208B83006E5E6F</string>
-		<string>5008099311208B83006E5E6F</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>50DED703111F0E4B003C930B</string>
 		<string>/Users/max/cocoa/CLSkype/CLSkype.xcodeproj</string>
@@ -561,7 +558,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>CLSkypeAppDelegate.m</string>
+								<string></string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -578,8 +575,6 @@
 							<string>328pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -619,7 +614,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>50DED703111F0E4B003C930B</string>
-				<string>5008098911208B83006E5E6F</string>
+				<string>50AF1E2711215D6D00CA8578</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -663,8 +658,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 202}}</string>
-											<string>{{316, 0}, {378, 202}}</string>
+											<string>{{0, 0}, {316, 203}}</string>
+											<string>{{316, 0}, {378, 203}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -679,8 +674,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 202}}</string>
-											<string>{{0, 202}, {694, 179}}</string>
+											<string>{{0, 0}, {694, 203}}</string>
+											<string>{{0, 203}, {694, 178}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -713,7 +708,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 202}}</string>
+									<string>{{316, 0}, {378, 203}}</string>
 									<key>RubberWindowFrame</key>
 									<string>21 433 694 422 0 0 1440 878 </string>
 								</dict>
@@ -741,13 +736,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>5008098A11208B83006E5E6F</string>
+				<string>50AF1E2811215D6D00CA8578</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>5008098B11208B83006E5E6F</string>
-				<string>5008098C11208B83006E5E6F</string>
-				<string>5008098D11208B83006E5E6F</string>
-				<string>5008098E11208B83006E5E6F</string>
-				<string>5008098F11208B83006E5E6F</string>
+				<string>50AF1E2911215D6D00CA8578</string>
+				<string>50AF1E2A11215D6D00CA8578</string>
+				<string>50AF1E2B11215D6D00CA8578</string>
+				<string>50AF1E2C11215D6D00CA8578</string>
+				<string>50AF1E2D11215D6D00CA8578</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>

@@ -17,9 +17,9 @@
 	};
 	256AC3D90F4B6AC300CF3369 /* CLSkypeAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {999, 2366}}";
-			sepNavSelRange = "{306, 0}";
-			sepNavVisRange = "{154, 694}";
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 2198}}";
+			sepNavSelRange = "{657, 0}";
+			sepNavVisRange = "{0, 1963}";
 			sepNavWindowFrame = "{{15, 42}, {1032, 831}}";
 		};
 	};
@@ -80,13 +80,13 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 287345533;
-			PBXWorkspaceStateSaveDate = 287345533;
+			PBXPerProjectTemplateStateSaveDate = 287399251;
+			PBXWorkspaceStateSaveDate = 287399251;
 		};
 		perUserProjectItems = {
 			50080A0C1120B14C006E5E6F /* PBXTextBookmark */ = 50080A0C1120B14C006E5E6F /* PBXTextBookmark */;
-			50080A0D1120B14C006E5E6F /* PBXTextBookmark */ = 50080A0D1120B14C006E5E6F /* PBXTextBookmark */;
 			50080A1B1120B81C006E5E6F /* PBXTextBookmark */ = 50080A1B1120B81C006E5E6F /* PBXTextBookmark */;
+			50AF1E2411215D6D00CA8578 /* PBXTextBookmark */ = 50AF1E2411215D6D00CA8578 /* PBXTextBookmark */;
 			50DED819111F321B003C930B /* PBXTextBookmark */ = 50DED819111F321B003C930B /* PBXTextBookmark */;
 			50DED85D111F39B6003C930B /* PBXTextBookmark */ = 50DED85D111F39B6003C930B /* PBXTextBookmark */;
 			50DED85E111F39B6003C930B /* PlistBookmark */ = 50DED85E111F39B6003C930B /* PlistBookmark */;
@@ -105,17 +105,17 @@
 		vrLen = 968;
 		vrLoc = 0;
 	};
-	50080A0D1120B14C006E5E6F /* PBXTextBookmark */ = {
+	50080A1B1120B81C006E5E6F /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 256AC3D90F4B6AC300CF3369 /* CLSkypeAppDelegate.m */;
-		name = "CLSkypeAppDelegate.m: 14";
+		name = "CLSkypeAppDelegate.m: 23";
 		rLen = 0;
-		rLoc = 283;
+		rLoc = 657;
 		rType = 0;
-		vrLen = 1902;
+		vrLen = 1963;
 		vrLoc = 0;
 	};
-	50080A1B1120B81C006E5E6F /* PBXTextBookmark */ = {
+	50AF1E2411215D6D00CA8578 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 256AC3D90F4B6AC300CF3369 /* CLSkypeAppDelegate.m */;
 		name = "CLSkypeAppDelegate.m: 23";
